@@ -5,4 +5,4 @@ Git tracks changes of files.
 create connnection to GitHub
 repeat password test
 repeat password test2
-creating a new branch is quick & simple.
+creating a new branch is quick and simple.
